@@ -1,62 +1,86 @@
 # 🌑 Eclipse
 
+![Eclipse](./eclipse-badge-animated.svg)
+
 > A lightweight, powerful web platform built for speed, flexibility, and control.
 
 ---
 
 ## 🚀 About
 
-**Eclipse** is a modern web-based platform designed to deliver fast, accessible content through a clean and minimal interface.
+**Eclipse** is a modern browser-based platform designed to deliver fast, accessible content through a minimal and efficient interface.
 
-Whether you're building tools, hosting content, or experimenting with web tech, Eclipse provides a flexible foundation to build on.
+Built with performance and simplicity in mind, Eclipse acts as a flexible foundation for hosting, tools, and experimental web systems.
 
 ---
 
 ## ⚡ Features
 
-- 🌐 Lightweight browser-based system
-- ⚙️ Fast deployment & simple structure
-- 🔗 External resource integration (CDNs, APIs, etc.)
-- 🎯 Clean and minimal UI
-- 🧩 Modular & expandable
+* 🌐 Lightweight browser-based system
+* ⚙️ Fast deployment & simple architecture
+* 🔗 External resource integration (CDNs, APIs)
+* 🎯 Clean, distraction-free UI
+* 🧩 Modular and expandable design
 
 ---
 
 ## 🧠 Philosophy
 
-Eclipse is built around a few core ideas:
+Eclipse follows a simple set of principles:
 
-- **Speed over bloat**
-- **Simplicity over complexity**
-- **Control over restriction**
+* **Speed over bloat**
+* **Simplicity over complexity**
+* **Control over restriction**
 
 ---
 
 ## 📦 Projects
 
-Here are some of our main projects:
+### 🌑 Eclipse
 
-- **Eclipse** – Core platform
-- **Zeno** – Experimental deployment system
-- **Flux** – Next-gen proxy framework
-- **Crafted Gamz** – A exponential hub for everything you could possibly ever need.
-- **Hyperspeed** - An extremely fast proxy for Eclipse Services (v2 coming soon)
+Core platform powering the system.
+
+### 🧬 Zeno
+
+Experimental deployment and hosting system.
+
+### ⚡ Flux
+
+Next-generation proxy framework built for flexibility and performance.
+
+### 🎮 Crafted Gamz
+
+An exponential hub for everything you could possibly ever need.
+
+### 🚀 Hyperspeed
+
+An extremely fast proxy for Eclipse Services.
+**v2 coming soon.**
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML / CSS / JavaScript
-- CDN-based asset delivery
-- Firebase / static hosting
+* HTML / CSS / JavaScript
+* CDN-based asset delivery
+* Static hosting (Firebase & similar platforms)
 
 ---
 
 ## 🚧 Status
 
-This project is actively being developed and improved.
+Eclipse is actively being developed.
 
-Expect frequent updates, changes, and new features.
+Features, structure, and capabilities may change as the platform evolves.
+
+---
+
+## 🧪 Use Cases
+
+* Hosting lightweight web tools
+* Building experimental platforms
+* Learning and testing web technologies
+* Creating fast-access browser utilities
 
 ---
 
@@ -64,7 +88,7 @@ Expect frequent updates, changes, and new features.
 
 Contributions, ideas, and feedback are welcome.
 
-1. Fork the repo
+1. Fork the repository
 2. Make your changes
 3. Submit a pull request
 
@@ -72,8 +96,8 @@ Contributions, ideas, and feedback are welcome.
 
 ## 📜 License
 
-This project is open-source.  
-Check the repository for license details.
+This project is open-source.
+See the repository for license details.
 
 ---
 
